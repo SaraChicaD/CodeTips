@@ -1,0 +1,1 @@
+angular.element($0).scope() 
