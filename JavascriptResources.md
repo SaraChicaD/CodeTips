@@ -7,6 +7,8 @@
 - [Quick and Dirty JavaScript Closures Guide](https://appendto.com/2016/02/quick-dirty-closures-guide/)
 - [JavaScript Execution Order](http://xahlee.info/js/js_executing_order.html)
 - [What is the Execution Context & Stack in JavaScript?](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/#first-article)
+- [Apply vs. Call vs. Bind in JavaScript](https://codeplanet.io/javascript-apply-vs-call-vs-bind/)
+- [The Difference Between Call and Apply in Javascript](https://hangar.runway7.net/javascript/difference-call-apply)
 
 **ES6 Stuff:**
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
